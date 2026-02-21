@@ -42,6 +42,6 @@ Sono un Junior Web Developer con una formazione intensiva presso **Boolean**. Se
 ### 🚀 Obiettivi
 Punto a contribuire a progetti innovativi, applicando un approccio orientato alla scrittura di **codice pulito** e alla risoluzione efficiente di problemi tecnici complessi.
 
-📫 **Contattami:** 
-Email: samuelefinotello.147@gmail.com
-Linkedin: https://www.linkedin.com/in/samuele-finotello-b3b273284/
+### 📫 Contattami:
+* **Email**: samuelefinotello.147@gmail.com
+* **Linkedin**: https://www.linkedin.com/in/samuele-finotello-b3b273284/
