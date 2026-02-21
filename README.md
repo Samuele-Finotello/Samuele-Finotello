@@ -45,5 +45,4 @@ Punto a contribuire a progetti innovativi, applicando un approccio orientato all
 ### 📫 Contattami:
 
 **Email**: samuelefinotello.147@gmail.com
-
 **Linkedin**: https://www.linkedin.com/in/samuele-finotello-b3b273284/
