@@ -31,3 +31,17 @@ Sono un Junior Web Developer con una formazione intensiva presso **Boolean**. Se
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
+### 🤝 Soft Skills
+* **Teamwork:** Esperienza in flussi di lavoro strutturati e collaborazione attiva.
+* **Problem Solving:** Analisi e debugging metodico su progetti complessi.
+* **Continuous Learning:** Sempre aggiornato sulle ultime best practice del settore.
+
+---
+
+### 🚀 Obiettivi
+Punto a contribuire a progetti innovativi, applicando un approccio orientato alla scrittura di **codice pulito** e alla risoluzione efficiente di problemi tecnici complessi.
+
+📫 **Contattami:** 
+Email: samuelefinotello.147@gmail.com
+Linkedin: https://www.linkedin.com/in/samuele-finotello-b3b273284/
